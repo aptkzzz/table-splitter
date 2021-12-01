@@ -1,0 +1,5 @@
+{
+    "chunk_size": 100,
+    "filename": "исходник.xlsx",
+    "output_template": "часть {}.xlsx"
+}
